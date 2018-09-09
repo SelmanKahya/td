@@ -1,0 +1,11 @@
+
+- kule dikme UI
+- para
+-- yaratik oldurdukce para gelsin
+-- kule dikdikce para gitsin
+
+- game over
+- enemy hp
+
+bugs: 
+- bullet isnt destroyed on collision
